@@ -1,0 +1,8 @@
+#python code for finding positive and negative number 
+num=int(input("ENTER THE NUMBER :"))
+if (num>0):
+  print("THE NUMBER IS POSITIVE")
+elif (num<0):
+  print("THE NUMBER IS NEGATVE")
+else : 
+  print("THE NUMBER IS ZERO") 
